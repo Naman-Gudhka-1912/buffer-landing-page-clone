@@ -100,7 +100,7 @@ To run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/naman-gudhka/buffer-landing-page-clone.git
+git clone https://github.com/Naman-Gudhka-1912/buffer-landing-page-clone.git
 ```
 
 ### 2. Open the project
@@ -117,13 +117,13 @@ For development, you can also use the Live Server extension in Visual Studio Cod
 
 ## 🌐 Live Demo
 
-[View Buffer Clone](https://naman-gudhka.github.io/buffer-landing-page-clone/)
+[View Buffer Clone](https://Naman-Gudhka-1912.github.io/buffer-landing-page-clone/)
 
 ## 👨‍💻 Author
 
 **Naman Gudhka**
 
-GitHub: [@naman-gudhka](https://github.com/naman-gudhka)
+GitHub: [@Naman-Gudhka-1912](https://github.com/Naman-Gudhka-1912)
 
 ## ⚠️ Disclaimer
 
